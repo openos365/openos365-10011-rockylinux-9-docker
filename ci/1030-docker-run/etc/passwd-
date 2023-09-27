@@ -12,4 +12,5 @@ games:x:12:100:games:/usr/games:/sbin/nologin
 ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
 nobody:x:65534:65534:Kernel Overflow User:/:/sbin/nologin
 tss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
+pesign:x:999:998:Group for the pesign signing daemon:/run/pesign:/sbin/nologin
 www:x:1000:1000::/home/www:/bin/bash
