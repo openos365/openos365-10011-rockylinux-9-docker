@@ -25,5 +25,6 @@ nobody:::
 utmp:!::
 utempter:!::
 tss:!::
+screen:!::
 www:!::
 runner:!::
