@@ -18,7 +18,6 @@ min_rsa_size = 2048
 sha1_in_certs = 0
 ssh_certs = 1
 ssh_etm = 1
-__ems = DEFAULT
 # Scope-specific properties derived for select backends:
 cipher@gnutls = AES-256-GCM AES-256-CCM CHACHA20-POLY1305 AES-256-CBC AES-128-GCM AES-128-CCM AES-128-CBC
 protocol@gnutls = TLS1.3 TLS1.2 DTLS1.2
