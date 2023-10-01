@@ -100,7 +100,7 @@ elfutils-libelf.x86_64                      0.188-3.el9                      @Sy
 elfutils-libelf-devel.x86_64                0.188-3.el9                      @appstream
 elfutils-libs.x86_64                        0.188-3.el9                      @System   
 emacs-filesystem.noarch                     1:27.2-8.el9_2.1                 @appstream
-epel-release.noarch                         9-7.el9                          @epel     
+epel-release.noarch                         9-7.el9                          @extras   
 exempi.x86_64                               2.6.0-0.2.20211007gite23c213.el9 @appstream
 exiv2.x86_64                                0.27.5-2.el9                     @appstream
 exiv2-libs.x86_64                           0.27.5-2.el9                     @appstream
