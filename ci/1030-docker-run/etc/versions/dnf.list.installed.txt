@@ -747,7 +747,7 @@ python3-simplejson.x86_64                   3.17.6-1.el9                     @ep
 python3-six.noarch                          1.15.0-9.el9                     @baseos   
 python3-systemd.x86_64                      234-18.el9                       @baseos   
 python3-urllib3.noarch                      1.26.5-3.el9                     @baseos   
-qemu-img.x86_64                             17:7.2.0-14.el9_2.5              @appstream
+qemu-img.x86_64                             17:7.2.0-14.el9_2.3              @appstream
 qt5-srpm-macros.noarch                      5.15.3-1.el9                     @appstream
 readline.x86_64                             8.1-4.el9                        @System   
 redhat-rpm-config.noarch                    199-1.el9                        @appstream
