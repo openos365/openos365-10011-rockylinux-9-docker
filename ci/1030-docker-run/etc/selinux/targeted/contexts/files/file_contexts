@@ -6308,6 +6308,7 @@
 /usr/lib/xfce4/xfwm4/helper-dialog	--	system_u:object_r:bin_t:s0
 /usr/libexec/anaconda/anaconda-yum	--	system_u:object_r:install_exec_t:s0
 /usr/libexec/dnssec-trigger-script	--	system_u:object_r:dnssec_trigger_exec_t:s0
+/usr/libexec/flatpak-system-helper	--	system_u:object_r:flatpak_helper_exec_t:s0
 /usr/libexec/httpd-ssl-pass-dialog	--	system_u:object_r:httpd_passwd_exec_t:s0
 /usr/sbin/yum-complete-transaction	--	system_u:object_r:rpm_exec_t:s0
 /usr/share/fedora-usermgmt/wrapper	--	system_u:object_r:bin_t:s0
