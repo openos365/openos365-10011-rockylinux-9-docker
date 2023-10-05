@@ -32,5 +32,6 @@ systemd-journal:x:190:
 systemd-coredump:x:997:
 dbus:x:81:
 screen:x:84:
+ssh_keys:x:996:
 www:x:1000:
 runner:x:1001:
