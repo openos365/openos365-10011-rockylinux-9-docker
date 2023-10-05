@@ -25,7 +25,12 @@ nobody:::
 utmp:!::
 utempter:!::
 tss:!::
+input:!::
+kvm:!::
+render:!::
+systemd-journal:!::
+systemd-coredump:!::
+dbus:!::
 screen:!::
-ssh_keys:!::
 www:!::
 runner:!::
