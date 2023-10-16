@@ -107,6 +107,7 @@ exempi.x86_64                                                                   
 exiv2.x86_64                                                                             0.27.5-2.el9                                   @appstream
 exiv2-libs.x86_64                                                                        0.27.5-2.el9                                   @appstream
 expat.x86_64                                                                             2.5.0-1.el9                                    @System   
+expect.x86_64                                                                            5.45.4-15.el9                                  @appstream
 fdk-aac-free.x86_64                                                                      2.0.0-8.el9                                    @appstream
 file.x86_64                                                                              5.39-12.1.el9_2                                @baseos   
 file-libs.x86_64                                                                         5.39-12.1.el9_2                                @baseos   
@@ -797,6 +798,7 @@ systemtap-runtime.x86_64                                                        
 systemtap-sdt-devel.x86_64                                                               4.8-2.el9                                      @appstream
 tar.x86_64                                                                               2:1.34-6.el9_1                                 @System   
 tbb.x86_64                                                                               2020.3-8.el9                                   @appstream
+tcl.x86_64                                                                               1:8.6.10-7.el9                                 @baseos   
 totem-pl-parser.x86_64                                                                   3.26.6-2.el9                                   @appstream
 tpm2-tss.x86_64                                                                          3.0.3-8.el9                                    @System   
 tracker.x86_64                                                                           3.1.2-3.el9_1                                  @appstream
@@ -3008,7 +3010,6 @@ exo-devel.x86_64                                                                
 expat.i686                                                                               2.5.0-1.el9                                    baseos    
 expat-devel.i686                                                                         2.5.0-1.el9                                    appstream 
 expat-devel.x86_64                                                                       2.5.0-1.el9                                    appstream 
-expect.x86_64                                                                            5.45.4-15.el9                                  appstream 
 extra-cmake-modules.noarch                                                               5.105.0-1.el9                                  epel      
 extundelete.x86_64                                                                       0.2.4-19.el9                                   epel      
 f2c.x86_64                                                                               20210928-3.el9                                 epel      
@@ -22915,7 +22916,6 @@ tbb-devel.i686                                                                  
 tbb-devel.x86_64                                                                         2020.3-8.el9                                   appstream 
 tbb-doc.x86_64                                                                           2020.3-8.el9                                   appstream 
 tboot.x86_64                                                                             1:1.10.5-2.el9                                 baseos    
-tcl.x86_64                                                                               1:8.6.10-7.el9                                 baseos    
 tcl-devel.x86_64                                                                         1:8.6.10-7.el9                                 appstream 
 tcl-doc.noarch                                                                           1:8.6.10-7.el9                                 appstream 
 tcl-hamlib.x86_64                                                                        4.5.5-1.el9                                    epel      
