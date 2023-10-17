@@ -8718,8 +8718,8 @@ libcue.x86_64                                                                   
 libcue-devel.x86_64                                                                      2.2.1-8.el9                                    epel      
 libcurl.i686                                                                             7.76.1-23.el9_2.2                              baseos    
 libcurl.x86_64                                                                           7.76.1-23.el9_2.2                              baseos    
-libcurl-devel.i686                                                                       7.76.1-23.el9_2.4                              appstream 
-libcurl-devel.x86_64                                                                     7.76.1-23.el9_2.4                              appstream 
+libcurl-devel.i686                                                                       7.76.1-23.el9_2.2                              appstream 
+libcurl-devel.x86_64                                                                     7.76.1-23.el9_2.2                              appstream 
 libcurl-minimal.i686                                                                     7.76.1-23.el9_2.2                              baseos    
 libcutl.x86_64                                                                           1.10.0-23.el9                                  epel      
 libcutl-devel.x86_64                                                                     1.10.0-23.el9                                  epel      
@@ -11221,12 +11221,12 @@ nmstate.x86_64                                                                  
 nmstate-libs.i686                                                                        2.2.15-2.el9_2                                 appstream 
 nmstate-libs.x86_64                                                                      2.2.15-2.el9_2                                 appstream 
 nnn.x86_64                                                                               4.6-1.el9                                      epel      
-nodejs.x86_64                                                                            1:16.20.2-3.el9_2                              appstream 
+nodejs.x86_64                                                                            1:16.20.2-1.el9_2                              appstream 
 nodejs-devel.x86_64                                                                      1:16.18.1-4.el9                                epel      
-nodejs-docs.noarch                                                                       1:16.20.2-3.el9_2                              appstream 
-nodejs-full-i18n.x86_64                                                                  1:16.20.2-3.el9_2                              appstream 
-nodejs-libs.i686                                                                         1:16.20.2-3.el9_2                              appstream 
-nodejs-libs.x86_64                                                                       1:16.20.2-3.el9_2                              appstream 
+nodejs-docs.noarch                                                                       1:16.20.2-1.el9_2                              appstream 
+nodejs-full-i18n.x86_64                                                                  1:16.20.2-1.el9_2                              appstream 
+nodejs-libs.i686                                                                         1:16.20.2-1.el9_2                              appstream 
+nodejs-libs.x86_64                                                                       1:16.20.2-1.el9_2                              appstream 
 nodejs-nodemon.noarch                                                                    2.0.20-3.el9_2                                 appstream 
 nodejs-packaging.noarch                                                                  2021.06-3.el9                                  epel      
 nodejs-packaging-bundler.noarch                                                          2021.06-3.el9                                  epel      
@@ -11274,7 +11274,7 @@ notmuch-devel.x86_64                                                            
 notmuch-mutt.noarch                                                                      0.36-5.el9                                     epel      
 notmuch-vim.x86_64                                                                       0.36-5.el9                                     epel      
 novnc.noarch                                                                             1.4.0-1.el9                                    epel      
-npm.x86_64                                                                               1:8.19.4-1.16.20.2.3.el9_2                     appstream 
+npm.x86_64                                                                               1:8.19.4-1.16.20.2.1.el9_2                     appstream 
 npm-name-cli.noarch                                                                      4.0.1-12.el9                                   epel      
 npth.i686                                                                                1.6-8.el9                                      baseos    
 nqp.x86_64                                                                               2023.05-3.el9                                  epel      
