@@ -2558,7 +2558,7 @@ cups-lpd.x86_64                                                                 
 cups-pdf.x86_64                                                                          3.0.1-17.el9                                   epel      
 cups-pk-helper.x86_64                                                                    0.2.6-14.el9                                   appstream 
 cups-printerapp.x86_64                                                                   1:2.3.3op2-16.el9_2.1                          appstream 
-curl.x86_64                                                                              7.76.1-23.el9_2.2                              baseos    
+curl.x86_64                                                                              7.76.1-23.el9_2.4                              baseos    
 cvs.x86_64                                                                               1.11.23-60.el9                                 epel      
 cvs-contrib.noarch                                                                       1.11.23-60.el9                                 epel      
 cvs-doc.noarch                                                                           1.11.23-60.el9                                 epel      
@@ -8716,11 +8716,11 @@ libcsv.x86_64                                                                   
 libcsv-devel.x86_64                                                                      3.0.3^20210820gitb1d5212-1.el9                 epel      
 libcue.x86_64                                                                            2.2.1-8.el9                                    epel      
 libcue-devel.x86_64                                                                      2.2.1-8.el9                                    epel      
-libcurl.i686                                                                             7.76.1-23.el9_2.2                              baseos    
-libcurl.x86_64                                                                           7.76.1-23.el9_2.2                              baseos    
+libcurl.i686                                                                             7.76.1-23.el9_2.4                              baseos    
+libcurl.x86_64                                                                           7.76.1-23.el9_2.4                              baseos    
 libcurl-devel.i686                                                                       7.76.1-23.el9_2.4                              appstream 
 libcurl-devel.x86_64                                                                     7.76.1-23.el9_2.4                              appstream 
-libcurl-minimal.i686                                                                     7.76.1-23.el9_2.2                              baseos    
+libcurl-minimal.i686                                                                     7.76.1-23.el9_2.4                              baseos    
 libcutl.x86_64                                                                           1.10.0-23.el9                                  epel      
 libcutl-devel.x86_64                                                                     1.10.0-23.el9                                  epel      
 libdaemon.i686                                                                           0.14-23.el9                                    baseos    
