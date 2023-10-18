@@ -321,7 +321,7 @@ libnet.x86_64                               1.2-6.el9                        @ap
 libnetfilter_conntrack.x86_64               1.0.9-1.el9                      @baseos   
 libnfnetlink.x86_64                         1.0.1-21.el9                     @baseos   
 libnftnl.x86_64                             1.2.2-1.el9                      @baseos   
-libnghttp2.x86_64                           1.43.0-5.el9_2.1                 @baseos   
+libnghttp2.x86_64                           1.43.0-5.el9                     @System   
 libnl3.x86_64                               3.7.0-1.el9                      @baseos   
 libnotify.x86_64                            0.7.9-8.el9                      @appstream
 libogg.x86_64                               2:1.3.4-6.el9                    @appstream
