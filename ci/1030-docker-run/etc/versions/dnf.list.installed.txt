@@ -58,7 +58,7 @@ crypto-policies-scripts.noarch              20221215-1.git9a18988.el9_2.1    @ba
 cryptsetup.x86_64                           2.6.0-2.el9                      @baseos   
 cryptsetup-libs.x86_64                      2.6.0-2.el9                      @baseos   
 cups-libs.x86_64                            1:2.3.3op2-16.el9_2.1            @baseos   
-curl-minimal.x86_64                         7.76.1-23.el9_2.2                @baseos   
+curl-minimal.x86_64                         7.76.1-23.el9_2.4                @baseos   
 cyrus-sasl-lib.x86_64                       2.1.27-21.el9                    @System   
 dbus.x86_64                                 1:1.12.20-7.el9_2.1              @baseos   
 dbus-broker.x86_64                          28-7.el9                         @baseos   
@@ -272,7 +272,7 @@ libcap-ng.x86_64                            0.8.2-7.el9                      @Sy
 libcbor.x86_64                              0.7.0-5.el9                      @baseos   
 libcom_err.x86_64                           1.46.5-3.el9                     @System   
 libcomps.x86_64                             0.1.18-1.el9                     @System   
-libcurl-minimal.x86_64                      7.76.1-23.el9_2.2                @baseos   
+libcurl-minimal.x86_64                      7.76.1-23.el9_2.4                @baseos   
 libdatrie.x86_64                            0.2.13-4.el9                     @appstream
 libdb.x86_64                                5.3.28-53.el9                    @System   
 libdnf.x86_64                               0.69.0-3.el9_2                   @System   
