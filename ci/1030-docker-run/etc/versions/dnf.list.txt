@@ -2705,7 +2705,7 @@ dhcp-relay.x86_64                                                               
 dhcp-server.x86_64                                                                       12:4.4.2-18.b1.el9                             baseos    
 dhcpcd.x86_64                                                                            10.0.2-7.el9                                   epel      
 dhcpd-pools.x86_64                                                                       3.2-1.el9                                      epel      
-dhcpdump.x86_64                                                                          1.8-5.el9                                      epel      
+dhcpdump.x86_64                                                                          1.9-1.el9                                      epel      
 dhcping.x86_64                                                                           1.2-28.el9                                     epel      
 dia.x86_64                                                                               1:0.97.3-19.el9                                epel      
 dialog.i686                                                                              1.3-32.20210117.el9.0.1                        appstream 
@@ -3196,8 +3196,8 @@ firebird-devel.x86_64                                                           
 firebird-doc.noarch                                                                      4.0.0.2496-2.el9                               epel      
 firebird-examples.noarch                                                                 4.0.0.2496-2.el9                               epel      
 firebird-utils.x86_64                                                                    4.0.0.2496-2.el9                               epel      
-firefox.x86_64                                                                           115.4.0-1.el9_2                                appstream 
-firefox-x11.x86_64                                                                       115.4.0-1.el9_2                                appstream 
+firefox.x86_64                                                                           115.3.1-1.el9_2                                appstream 
+firefox-x11.x86_64                                                                       115.3.1-1.el9_2                                appstream 
 firejail.x86_64                                                                          0.9.72-1.el9                                   epel      
 firewall-applet.noarch                                                                   1.2.1-1.el9                                    appstream 
 firewall-config.noarch                                                                   1.2.1-1.el9                                    appstream 
@@ -6312,6 +6312,7 @@ golang-github-kr-pretty-devel.noarch                                            
 golang-github-kr-text.x86_64                                                             0.2.0-13.el9                                   epel      
 golang-github-kr-text-devel.noarch                                                       0.2.0-13.el9                                   epel      
 golang-github-nilslice-protolock-devel.noarch                                            0.16.0-3.el9                                   epel      
+golang-github-pkg-errors-devel.noarch                                                    0.9.1-10.el9                                   epel      
 golang-github-pmezard-difflib-devel.noarch                                               1.0.0-11.el9                                   epel      
 golang-github-prometheus.x86_64                                                          2.32.1-3.el9                                   epel      
 golang-github-prometheus-alertmanager.x86_64                                             0.23.0-6.el9                                   epel      
@@ -7948,7 +7949,7 @@ knot-utils.x86_64                                                               
 knotes.x86_64                                                                            22.12.3-1.el9                                  epel      
 knotes-libs.x86_64                                                                       22.12.3-1.el9                                  epel      
 koan.noarch                                                                              3.0.1-1.el9                                    epel      
-kobo-admin.noarch                                                                        0.30.1-1.el9                                   epel      
+kobo-admin.noarch                                                                        0.32.0-1.el9                                   epel      
 koji.noarch                                                                              1.33.0-1.el9                                   epel      
 koji-builder.noarch                                                                      1.33.0-1.el9                                   epel      
 koji-builder-plugin-rpmautospec.noarch                                                   0.3.5-1.el9                                    epel      
@@ -9038,7 +9039,7 @@ libguestfs-bash-completion.noarch                                               
 libguestfs-inspect-icons.noarch                                                          1:1.48.4-4.el9                                 appstream 
 libguestfs-rescue.x86_64                                                                 1:1.48.4-4.el9                                 appstream 
 libguestfs-rsync.x86_64                                                                  1:1.48.4-4.el9                                 appstream 
-libguestfs-winsupport.x86_64                                                             9.2-2.el9_2                                    appstream 
+libguestfs-winsupport.x86_64                                                             9.2-1.el9                                      appstream 
 libguestfs-xfs.x86_64                                                                    1:1.48.4-4.el9                                 appstream 
 libgusb.i686                                                                             0.3.8-1.el9                                    baseos    
 libgweather.i686                                                                         40.0-3.el9                                     appstream 
@@ -11133,7 +11134,7 @@ nemo-search-helpers.x86_64                                                      
 nemo-terminal.noarch                                                                     5.6.0-2.el9                                    epel      
 neochat.x86_64                                                                           23.04.3-5.el9                                  epel      
 neofetch.noarch                                                                          7.1.0-7.el9                                    epel      
-neomutt.x86_64                                                                           6:20231006-1.el9                               epel      
+neomutt.x86_64                                                                           6:20231023-1.el9                               epel      
 neon.i686                                                                                0.31.2-11.el9                                  appstream 
 neon.x86_64                                                                              0.31.2-11.el9                                  appstream 
 neovim.x86_64                                                                            0.8.0-0.el9                                    epel      
@@ -13026,7 +13027,8 @@ php-pear-CodeGen.noarch                                                         
 php-pear-CodeGen-PECL.noarch                                                             1.1.3-26.el9                                   epel      
 php-pear-Mail.noarch                                                                     1.5.1-1.el9                                    epel      
 php-pear-Mail-Mime.noarch                                                                1.10.11-5.el9                                  epel      
-php-pear-Net-SMTP.noarch                                                                 1.10.1-3.el9                                   epel      
+php-pear-Net-IDNA2.noarch                                                                0.2.0-17.el9                                   epel      
+php-pear-Net-SMTP.noarch                                                                 1.11.0-1.el9                                   epel      
 php-pear-Net-Socket.noarch                                                               1.2.2-14.el9                                   epel      
 php-pecl-amqp.x86_64                                                                     1.11.0-1.el9                                   epel      
 php-pecl-apcu.x86_64                                                                     5.1.20-5.el9                                   appstream 
@@ -14389,13 +14391,13 @@ python3-kiwisolver.x86_64                                                       
 python3-kmod.x86_64                                                                      0.9-32.el9.0.1                                 baseos    
 python3-knack.noarch                                                                     1:0.11.0-1.el9                                 epel      
 python3-koan.noarch                                                                      3.0.1-1.el9                                    epel      
-python3-kobo.noarch                                                                      0.30.1-1.el9                                   epel      
-python3-kobo-admin.noarch                                                                0.30.1-1.el9                                   epel      
-python3-kobo-client.noarch                                                               0.30.1-1.el9                                   epel      
-python3-kobo-django.noarch                                                               0.30.1-1.el9                                   epel      
-python3-kobo-hub.noarch                                                                  0.30.1-1.el9                                   epel      
-python3-kobo-rpmlib.noarch                                                               0.30.1-1.el9                                   epel      
-python3-kobo-worker.noarch                                                               0.30.1-1.el9                                   epel      
+python3-kobo.noarch                                                                      0.32.0-1.el9                                   epel      
+python3-kobo-admin.noarch                                                                0.32.0-1.el9                                   epel      
+python3-kobo-client.noarch                                                               0.32.0-1.el9                                   epel      
+python3-kobo-django.noarch                                                               0.32.0-1.el9                                   epel      
+python3-kobo-hub.noarch                                                                  0.32.0-1.el9                                   epel      
+python3-kobo-rpmlib.noarch                                                               0.32.0-1.el9                                   epel      
+python3-kobo-worker.noarch                                                               0.32.0-1.el9                                   epel      
 python3-koji.noarch                                                                      1.33.0-1.el9                                   epel      
 python3-koji-cli-plugins.noarch                                                          1.33.0-1.el9                                   epel      
 python3-koji-hub.noarch                                                                  1.33.0-1.el9                                   epel      
@@ -14984,7 +14986,7 @@ python3-solv.x86_64                                                             
 python3-sortedcontainers.noarch                                                          2.4.0-5.el9                                    epel      
 python3-soupsieve.noarch                                                                 2.4.1-1.el9                                    epel      
 python3-speaklater.noarch                                                                1.3-26.el9                                     epel      
-python3-specfile.noarch                                                                  0.22.1-1.el9                                   epel      
+python3-specfile.noarch                                                                  0.23.0-1.el9                                   epel      
 python3-speechd.x86_64                                                                   0.10.2-4.el9                                   appstream 
 python3-sphinx-argparse.noarch                                                           0.3.1-1.el9                                    epel      
 python3-sphinx-bootstrap-theme.noarch                                                    0.8.1-1.el9                                    epel      
@@ -15061,6 +15063,7 @@ python3-texttable.noarch                                                        
 python3-thrift.x86_64                                                                    0.15.0-2.el9                                   epel      
 python3-throttler.noarch                                                                 1.2.2-3.el9                                    epel      
 python3-tinycss2.noarch                                                                  1.1.1-1.el9                                    epel      
+python3-tinydb.noarch                                                                    4.7.1-1.el9                                    epel      
 python3-tkinter.x86_64                                                                   3.9.16-1.el9_2.2                               appstream 
 python3-tkrzw.x86_64                                                                     0.1.30-1.el9                                   epel      
 python3-tld.noarch                                                                       0.13-1.el9                                     epel      
@@ -23835,7 +23838,7 @@ thrift-qt.x86_64                                                                
 thunar-archive-plugin.x86_64                                                             0.5.0-2.el9                                    epel      
 thunar-media-tags-plugin.x86_64                                                          0.4.0-1.el9                                    epel      
 thunar-volman.x86_64                                                                     4.18.0-2.el9                                   epel      
-thunderbird.x86_64                                                                       115.4.1-1.el9_2                                appstream 
+thunderbird.x86_64                                                                       115.3.1-1.el9_2                                appstream 
 tidy.x86_64                                                                              5.8.0-2.el9                                    epel      
 tig.x86_64                                                                               2.5.5-1.el9                                    epel      
 tigervnc.x86_64                                                                          1.12.0-13.el9_2                                appstream 
