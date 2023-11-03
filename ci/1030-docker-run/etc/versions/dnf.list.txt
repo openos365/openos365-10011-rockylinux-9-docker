@@ -23121,8 +23121,8 @@ solaar-udev.noarch                                                              
 sombok.i686                                                                              2.4.0-16.el9                                   appstream 
 sord.x86_64                                                                              0.16.10-2.el9                                  epel      
 sord-devel.x86_64                                                                        0.16.10-2.el9                                  epel      
-sos.noarch                                                                               4.6.0-5.el9                                    baseos    
-sos-audit.noarch                                                                         4.6.0-5.el9                                    baseos    
+sos.noarch                                                                               4.6.0-2.el9                                    baseos    
+sos-audit.noarch                                                                         4.6.0-2.el9                                    baseos    
 soundtouch.i686                                                                          2.1.1-8.el9                                    appstream 
 soundtouch.x86_64                                                                        2.1.1-8.el9                                    appstream 
 source-highlight.i686                                                                    3.1.9-11.el9                                   appstream 
