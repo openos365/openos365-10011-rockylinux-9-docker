@@ -1,6 +1,6 @@
 [connection]
 id=ens3
-uuid=2acb7ee9-0918-436e-9724-982817ef633a
+uuid=d447d2a7-607b-41e0-8c02-cd2043960383
 type=ethernet
 interface-name=ens3
 
