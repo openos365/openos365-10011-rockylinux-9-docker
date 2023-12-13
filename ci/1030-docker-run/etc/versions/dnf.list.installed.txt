@@ -380,7 +380,7 @@ libxcb.x86_64                               1.13.1-9.el9                     @ap
 libxcrypt.x86_64                            4.4.18-3.el9                     @System   
 libxcrypt-devel.x86_64                      4.4.18-3.el9                     @appstream
 libxkbcommon.x86_64                         1.0.3-4.el9                      @appstream
-libxml2.x86_64                              2.9.13-4.el9                     @System   
+libxml2.x86_64                              2.9.13-5.el9_3                   @baseos   
 libxshmfence.x86_64                         1.3-10.el9                       @appstream
 libxslt.x86_64                              1.1.34-9.el9                     @appstream
 libyaml.x86_64                              0.2.5-7.el9                      @System   
