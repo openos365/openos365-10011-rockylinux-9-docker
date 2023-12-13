@@ -788,7 +788,7 @@ tcl.x86_64                                  1:8.6.10-7.el9                   @ba
 totem-pl-parser.x86_64                      3.26.6-2.el9                     @appstream
 tpm2-tss.x86_64                             3.2.2-2.el9                      @System   
 tracker.x86_64                              3.1.2-3.el9_1                    @appstream
-tracker-miners.x86_64                       3.1.2-3.el9                      @appstream
+tracker-miners.x86_64                       3.1.2-4.el9_3                    @appstream
 tzdata.noarch                               2023c-1.el9                      @System   
 tzdata-java.noarch                          2023c-1.el9                      @appstream
 ubu-keyring.noarch                          2021.03.26-2.el9                 @epel     
@@ -817,7 +817,7 @@ vim-enhanced.x86_64                         2:8.2.2637-20.el9_1              @ap
 vim-filesystem.noarch                       2:8.2.2637-20.el9_1              @baseos   
 vim-minimal.x86_64                          2:8.2.2637-20.el9_1              @System   
 vulkan-loader.x86_64                        1.3.250.1-1.el9                  @appstream
-webkit2gtk3-jsc.x86_64                      2.40.5-1.el9                     @appstream
+webkit2gtk3-jsc.x86_64                      2.40.5-1.el9_3.1                 @appstream
 webrtc-audio-processing.x86_64              0.3.1-8.el9                      @appstream
 wget.x86_64                                 1.21.1-7.el9                     @appstream
 which.x86_64                                2.21-29.el9                      @baseos   
