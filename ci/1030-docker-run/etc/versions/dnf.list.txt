@@ -16061,7 +16061,6 @@ rocky-logos-ipa.noarch                                                          
 rocky-release-cloud.noarch                                                               9-4.el9                                        extras    
 rocky-release-core.noarch                                                                9-1.el9                                        extras    
 rocky-release-hpc.noarch                                                                 9-1.el9                                        extras    
-rocky-release-kernel.noarch                                                              9-3.el9                                        extras    
 rocky-release-security.noarch                                                            9-3.el9                                        extras    
 rocm-clinfo.x86_64                                                                       5.4.4-1.el9                                    epel      
 rocm-comgr.x86_64                                                                        15.1-1.el9                                     epel      
