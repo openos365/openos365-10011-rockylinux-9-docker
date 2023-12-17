@@ -1,6 +1,3 @@
-Rocky Linux 9 - BaseOS                          5.9 MB/s | 2.2 MB     00:00    
-Rocky Linux 9 - AppStream                        16 MB/s | 7.4 MB     00:00    
-Rocky Linux 9 - Extras                           56 kB/s |  14 kB     00:00    
 Installed Packages
 ModemManager-glib.x86_64                                                                 1.20.2-1.el9                                   @baseos   
 NetworkManager-libnm.x86_64                                                              1:1.44.0-3.el9                                 @baseos   
