@@ -18,7 +18,7 @@ countme=1
 metadata_expire=6h
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-Rocky-9
 
-[extras-debug]
+[extras-debuginfo]
 name=Rocky Linux $releasever - Extras Debug
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=extras-$releasever-debug$rltype
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/extras/$basearch/debug/tree/
@@ -46,7 +46,7 @@ countme=1
 metadata_expire=6h
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-Rocky-9
 
-[plus-debug]
+[plus-debuginfo]
 name=Rocky Linux $releasever - Plus - Debug
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=plus-$releasever-debug$rltype
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/plus/$basearch/debug/tree/
