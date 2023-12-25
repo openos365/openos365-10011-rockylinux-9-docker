@@ -2782,7 +2782,7 @@ dmenu.x86_64                                                                    
 dmidecode.x86_64                                                                         1:3.5-1.el9                                    baseos    
 dnf-automatic.noarch                                                                     4.14.0-8.el9                                   baseos    
 dnscrypt-proxy.x86_64                                                                    2.1.1-1.el9                                    epel      
-dnsdist.x86_64                                                                           1.8.1-1.el9                                    epel      
+dnsdist.x86_64                                                                           1.8.3-1.el9                                    epel      
 dnsmasq.x86_64                                                                           2.85-14.el9                                    appstream 
 dnsmasq-utils.x86_64                                                                     2.85-14.el9                                    appstream 
 dnsperf.x86_64                                                                           2.12.0-1.el9                                   epel      
