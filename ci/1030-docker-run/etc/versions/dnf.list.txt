@@ -1039,8 +1039,8 @@ R-highlight.x86_64                                                              
 R-inline.noarch                                                                          0.3.19-9.el9                                   epel      
 R-java.x86_64                                                                            4.3.2-1.el9                                    epel      
 R-java-devel.x86_64                                                                      4.3.2-1.el9                                    epel      
-R-littler.x86_64                                                                         0.3.18-4.el9                                   epel      
-R-littler-examples.x86_64                                                                0.3.18-4.el9                                   epel      
+R-littler.x86_64                                                                         0.3.19-1.el9                                   epel      
+R-littler-examples.x86_64                                                                0.3.19-1.el9                                   epel      
 R-qtl.x86_64                                                                             1.66-1.el9                                     epel      
 R-rJava.x86_64                                                                           1.0.6-5.el9                                    epel      
 R-rJava-javadoc.noarch                                                                   1.0.6-5.el9                                    epel      
@@ -1158,6 +1158,7 @@ alex.x86_64                                                                     
 alglib.x86_64                                                                            3.20.0-1.el9                                   epel      
 alglib-devel.x86_64                                                                      3.20.0-1.el9                                   epel      
 alglib-doc.noarch                                                                        3.20.0-1.el9                                   epel      
+algobox.x86_64                                                                           1.1.1-1.el9                                    epel      
 alien.noarch                                                                             8.95-14.el9                                    epel      
 alpine.x86_64                                                                            2.25-2.el9                                     epel      
 alsa-firmware.noarch                                                                     1.2.4-6.el9                                    appstream 
@@ -3365,7 +3366,7 @@ ftgl.x86_64                                                                     
 ftgl-devel.x86_64                                                                        2.1.3-0.27.rc5.el9                             epel      
 ftgl-docs.x86_64                                                                         2.1.3-0.27.rc5.el9                             epel      
 ftp.x86_64                                                                               0.17-89.el9                                    appstream 
-fts-rest-client.noarch                                                                   3.12.3-1.el9                                   epel      
+fts-rest-client.noarch                                                                   3.12.4-1.el9                                   epel      
 fuse-afp.x86_64                                                                          0.8.1-40.el9                                   epel      
 fuse-dislocker.x86_64                                                                    0.7.3-7.el9                                    epel      
 fuse-encfs.x86_64                                                                        1.9.5-12.el9                                   epel      
@@ -11788,7 +11789,7 @@ openscap-devel.x86_64                                                           
 openscap-engine-sce.i686                                                                 1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openscap-engine-sce.x86_64                                                               1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openscap-python3.x86_64                                                                  1:1.3.8-1.el9_2.rocky.1.0                      appstream 
-openscap-report.noarch                                                                   0.2.5-1.el9                                    epel      
+openscap-report.noarch                                                                   0.2.6-1.el9                                    epel      
 openscap-scanner.x86_64                                                                  1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openscap-utils.x86_64                                                                    1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openshot.noarch                                                                          3.1.1-4.el9                                    epel      
@@ -13568,7 +13569,7 @@ podman-gvproxy.x86_64                                                           
 podman-plugins.x86_64                                                                    2:4.6.1-7.el9_3                                appstream 
 podman-remote.x86_64                                                                     2:4.6.1-7.el9_3                                appstream 
 podman-tests.x86_64                                                                      2:4.6.1-7.el9_3                                appstream 
-podman-tui.x86_64                                                                        0.14.0-2.el9                                   epel      
+podman-tui.x86_64                                                                        0.15.0-2.el9                                   epel      
 podofo.x86_64                                                                            0.9.8-2.el9                                    epel      
 podofo-devel.x86_64                                                                      0.9.8-2.el9                                    epel      
 podofo-libs.x86_64                                                                       0.9.8-2.el9                                    epel      
@@ -13672,7 +13673,7 @@ ppp.x86_64                                                                      
 pprof.noarch                                                                             2.9.1-2.el9                                    epel      
 pptp.x86_64                                                                              1.10.0-14.el9                                  appstream 
 practrand.x86_64                                                                         0.951-3.el9                                    epel      
-pre-commit.noarch                                                                        3.5.0-1.el9                                    epel      
+pre-commit.noarch                                                                        3.6.0-1.el9                                    epel      
 prefixdevname.x86_64                                                                     0.1.0-8.el9                                    baseos    
 prelude-correlator.x86_64                                                                5.2.0-1.el9                                    epel      
 prelude-lml.x86_64                                                                       5.2.0-2.el9                                    epel      
