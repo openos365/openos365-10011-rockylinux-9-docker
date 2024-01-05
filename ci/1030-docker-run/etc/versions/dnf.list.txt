@@ -23878,9 +23878,9 @@ scalasca.x86_64                                                                 
 scalasca-doc.noarch                                                                      2.6-3.el9                                      epel      
 scalasca-mpich.x86_64                                                                    2.6-3.el9                                      epel      
 scalasca-openmpi.x86_64                                                                  2.6-3.el9                                      epel      
-scap-security-guide.noarch                                                               0.1.69-2.el9_2.rocky.0.1                       appstream 
-scap-security-guide-doc.noarch                                                           0.1.69-2.el9_2.rocky.0.1                       appstream 
-scap-security-guide-rule-playbooks.noarch                                                0.1.69-2.el9_2.rocky.0.1                       appstream 
+scap-security-guide.noarch                                                               0.1.69-3.el9_3.rocky.1.0                       appstream 
+scap-security-guide-doc.noarch                                                           0.1.69-3.el9_3.rocky.1.0                       appstream 
+scap-security-guide-rule-playbooks.noarch                                                0.1.69-3.el9_3.rocky.1.0                       appstream 
 scap-workbench.x86_64                                                                    1.2.1-13.el9                                   appstream 
 scdoc.x86_64                                                                             1.11.2-2.el9                                   epel      
 schedtool.x86_64                                                                         1.3.0-25.el9                                   epel      
