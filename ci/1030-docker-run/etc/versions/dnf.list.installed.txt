@@ -76,7 +76,7 @@ device-mapper-libs.x86_64                   9:1.02.195-3.el9                 @ba
 device-mapper-persistent-data.x86_64        1.0.6-3.el9_3                    @baseos   
 diffstat.x86_64                             1.64-6.el9                       @appstream
 diffutils.x86_64                            3.7-12.el9                       @baseos   
-distribution-gpg-keys.noarch                1.98-1.el9                       @epel     
+distribution-gpg-keys.noarch                1.99-1.el9                       @epel     
 dnf.noarch                                  4.14.0-8.el9                     @System   
 dnf-data.noarch                             4.14.0-8.el9                     @System   
 dnf-plugins-core.noarch                     4.3.0-11.el9_3                   @baseos   
