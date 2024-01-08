@@ -806,7 +806,7 @@ totem-pl-parser.x86_64                                                          
 tpm2-tss.x86_64                                                                          3.2.2-2.el9                                    @System   
 tracker.x86_64                                                                           3.1.2-3.el9_1                                  @appstream
 tracker-miners.x86_64                                                                    3.1.2-4.el9_3                                  @appstream
-tzdata.noarch                                                                            2023c-1.el9                                    @System   
+tzdata.noarch                                                                            2023d-1.el9                                    @baseos   
 tzdata-java.noarch                                                                       2023d-1.el9                                    @appstream
 ubu-keyring.noarch                                                                       2021.03.26-2.el9                               @epel     
 unzip.x86_64                                                                             6.0-56.el9                                     @baseos   
@@ -24194,7 +24194,7 @@ squashfs-tools-ng-libs.x86_64                                                   
 squashfuse.x86_64                                                                        0.1.104-1.el9                                  epel      
 squashfuse-devel.x86_64                                                                  0.1.104-1.el9                                  epel      
 squashfuse-libs.x86_64                                                                   0.1.104-1.el9                                  epel      
-squid.x86_64                                                                             7:5.5-6.el9_3.2                                appstream 
+squid.x86_64                                                                             7:5.5-6.el9_3.5                                appstream 
 squidclamav.x86_64                                                                       7.3-1.el9                                      epel      
 srain.x86_64                                                                             1.5.1-1.el9                                    epel      
 srain-doc.noarch                                                                         1.5.1-1.el9                                    epel      
