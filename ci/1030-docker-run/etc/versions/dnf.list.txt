@@ -12502,7 +12502,7 @@ perl-FileHandle-Fmode.x86_64                                                    
 perl-Filesys-Df.x86_64                                                                   0.92-45.el9                                    epel      
 perl-Filesys-Df-tests.noarch                                                             0.92-45.el9                                    epel      
 perl-Filesys-Notify-Simple.noarch                                                        0.14-7.el9                                     epel      
-perl-Finance-Quote.noarch                                                                1.5800-1.el9                                   epel      
+perl-Finance-Quote.noarch                                                                1.5900-1.el9                                   epel      
 perl-Font-AFM.noarch                                                                     1.20-38.el9                                    epel      
 perl-Font-TTF.noarch                                                                     1.06-19.el9                                    epel      
 perl-Font-TTF-XMLparse.noarch                                                            1.06-19.el9                                    epel      
