@@ -15473,7 +15473,7 @@ python3-tenacity.noarch                                                         
 python3-termcolor.noarch                                                                 1.1.0-26.el9                                   epel      
 python3-terminado.noarch                                                                 0.17.1-4.el9                                   epel      
 python3-terminaltables.noarch                                                            3.1.10-7.el9                                   epel      
-python3-testcloud.noarch                                                                 0.9.10-1.el9                                   epel      
+python3-testcloud.noarch                                                                 0.9.10-2.el9                                   epel      
 python3-testfixtures.noarch                                                              6.18.5-6.el9                                   epel      
 python3-testing.common.database.noarch                                                   2.0.3-7.el9                                    epel      
 python3-testpath.noarch                                                                  0.5.0-2.el9                                    epel      
@@ -24765,7 +24765,7 @@ tesseract.i686                                                                  
 tesseract.x86_64                                                                         4.1.1-7.el9                                    appstream 
 tesseract-langpack-eng.noarch                                                            4.1.0-3.el9                                    appstream 
 tesseract-tessdata-doc.noarch                                                            4.1.0-3.el9                                    appstream 
-testcloud.noarch                                                                         0.9.10-1.el9                                   epel      
+testcloud.noarch                                                                         0.9.10-2.el9                                   epel      
 testdisk.x86_64                                                                          7.1-7.el9                                      epel      
 testssl.noarch                                                                           3.2~rc3-1.el9                                  epel      
 tetgen.x86_64                                                                            1.5.0-22.el9                                   epel      
