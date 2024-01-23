@@ -11903,7 +11903,7 @@ openssh-ldap-authkeys-selinux.noarch                                            
 openssh-server.x86_64                                                                    8.7p1-34.el9                                   baseos    
 openssl-devel.i686                                                                       1:3.0.7-24.el9                                 appstream 
 openssl-devel.x86_64                                                                     1:3.0.7-24.el9                                 appstream 
-openssl-libs.i686                                                                        1:3.0.7-24.el9                                 baseos    
+openssl-libs.i686                                                                        1:3.0.7-25.el9_3                               baseos    
 openssl-perl.x86_64                                                                      1:3.0.7-24.el9                                 appstream 
 openssl-pkcs11.i686                                                                      0.4.11-7.el9                                   baseos    
 openssl-pkcs11.x86_64                                                                    0.4.11-7.el9                                   baseos    
