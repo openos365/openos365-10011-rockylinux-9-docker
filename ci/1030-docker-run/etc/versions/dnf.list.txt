@@ -24706,9 +24706,9 @@ system-config-printer-udev.x86_64                                               
 systemd.i686                                                                             252-18.el9.0.1.rocky                           baseos    
 systemd-container.i686                                                                   252-18.el9.0.1.rocky                           baseos    
 systemd-container.x86_64                                                                 252-18.el9.0.1.rocky                           baseos    
-systemd-devel.i686                                                                       252-18.el9.0.1.rocky                           appstream 
-systemd-devel.x86_64                                                                     252-18.el9.0.1.rocky                           appstream 
-systemd-journal-remote.x86_64                                                            252-18.el9.0.1.rocky                           appstream 
+systemd-devel.i686                                                                       252-18.el9                                     appstream 
+systemd-devel.x86_64                                                                     252-18.el9                                     appstream 
+systemd-journal-remote.x86_64                                                            252-18.el9                                     appstream 
 systemd-libs.i686                                                                        252-18.el9.0.1.rocky                           baseos    
 systemd-networkd.x86_64                                                                  253.4-1.el9                                    epel      
 systemd-oomd.x86_64                                                                      252-18.el9.0.1.rocky                           baseos    
