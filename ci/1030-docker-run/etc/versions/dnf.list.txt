@@ -789,11 +789,11 @@ strace.x86_64                                                                   
 sudo.x86_64                                                                              1.9.5p2-9.el9                                  @baseos   
 syslinux.x86_64                                                                          6.04-0.20.el9                                  @baseos   
 syslinux-nonlinux.noarch                                                                 6.04-0.20.el9                                  @baseos   
-systemd.x86_64                                                                           252-18.el9                                     @baseos   
-systemd-libs.x86_64                                                                      252-18.el9                                     @System   
-systemd-pam.x86_64                                                                       252-18.el9                                     @baseos   
-systemd-rpm-macros.noarch                                                                252-18.el9                                     @baseos   
-systemd-udev.x86_64                                                                      252-18.el9                                     @baseos   
+systemd.x86_64                                                                           252-18.el9.0.1.rocky                           @baseos   
+systemd-libs.x86_64                                                                      252-18.el9.0.1.rocky                           @baseos   
+systemd-pam.x86_64                                                                       252-18.el9.0.1.rocky                           @baseos   
+systemd-rpm-macros.noarch                                                                252-18.el9.0.1.rocky                           @baseos   
+systemd-udev.x86_64                                                                      252-18.el9.0.1.rocky                           @baseos   
 systemtap.x86_64                                                                         4.9-3.el9                                      @appstream
 systemtap-client.x86_64                                                                  4.9-3.el9                                      @appstream
 systemtap-devel.x86_64                                                                   4.9-3.el9                                      @appstream
