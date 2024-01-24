@@ -10612,7 +10612,6 @@ lorax-lmc-novirt.x86_64                                                         
 lorax-lmc-virt.x86_64                                                                    34.9.23-1.el9                                  appstream 
 lorax-templates-generic.x86_64                                                           34.9.23-1.el9                                  appstream 
 lorax-templates-rhel.noarch                                                              9.0-37.el9.rocky.0.1                           appstream 
-lorax-templates-rocky.noarch                                                             9.0-37.el9.0.1                                 appstream 
 lpcnetfreedv.x86_64                                                                      0.2-11.el9                                     epel      
 lpcnetfreedv-devel.x86_64                                                                0.2-11.el9                                     epel      
 lpf.noarch                                                                               0.3-4.el9                                      epel      
