@@ -15793,7 +15793,7 @@ qgpgme1.22-qt5-devel.x86_64                                                     
 qgpgme1.22-qt6.x86_64                                                                    1.22.0-1.el9                                   epel      
 qgpgme1.22-qt6-devel.x86_64                                                              1.22.0-1.el9                                   epel      
 qlipper.x86_64                                                                           5.1.2-8.el9                                    epel      
-qm.noarch                                                                                0.6.0-1.el9                                    epel      
+qm.noarch                                                                                0.6.2-1.el9                                    epel      
 qoauth-qt5.x86_64                                                                        2.0.0-16.el9                                   epel      
 qoauth-qt5-devel.x86_64                                                                  2.0.0-16.el9                                   epel      
 qpdf-libs.i686                                                                           10.3.1-7.el9                                   appstream 
