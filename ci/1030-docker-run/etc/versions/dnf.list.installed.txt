@@ -159,7 +159,7 @@ glibc-headers.x86_64                        2.34-83.el9.7                    @ap
 glibc-minimal-langpack.x86_64               2.34-83.el9.7                    @System   
 gmp.x86_64                                  1:6.2.0-13.el9                   @System   
 gnupg2.x86_64                               2.3.3-4.el9                      @System   
-gnutls.x86_64                               3.7.6-23.el9_3.3                 @baseos   
+gnutls.x86_64                               3.7.6-23.el9                     @System   
 go-srpm-macros.noarch                       3.2.0-2.el9                      @appstream
 gobject-introspection.x86_64                1.68.0-11.el9                    @baseos   
 google-droid-sans-fonts.noarch              20200215-11.el9.2                @appstream
