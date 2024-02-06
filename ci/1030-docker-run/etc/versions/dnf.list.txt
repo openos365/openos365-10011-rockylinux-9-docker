@@ -5816,9 +5816,9 @@ gi-docgen-fonts.noarch                                                          
 giflib.i686                                                                              5.2.1-9.el9                                    appstream 
 gifsicle.x86_64                                                                          1.93-1.el9                                     epel      
 gifview.x86_64                                                                           1.93-1.el9                                     epel      
-gimp.x86_64                                                                              2:2.99.8-3.el9                                 appstream 
-gimp-libs.i686                                                                           2:2.99.8-3.el9                                 appstream 
-gimp-libs.x86_64                                                                         2:2.99.8-3.el9                                 appstream 
+gimp.x86_64                                                                              2:2.99.8-4.el9_3                               appstream 
+gimp-libs.i686                                                                           2:2.99.8-4.el9_3                               appstream 
+gimp-libs.x86_64                                                                         2:2.99.8-4.el9_3                               appstream 
 girara.x86_64                                                                            0.4.0-1.el9                                    epel      
 girara-devel.x86_64                                                                      0.4.0-1.el9                                    epel      
 git-all.noarch                                                                           2.39.3-1.el9_2                                 appstream 
@@ -16761,7 +16761,7 @@ rubygem-yaml-lint.noarch                                                        
 rubygem-yaml-lint-doc.noarch                                                             0.1.2-1.el9                                    epel      
 rubygems.noarch                                                                          3.2.33-160.el9_0                               appstream 
 rubygems-devel.noarch                                                                    3.2.33-160.el9_0                               appstream 
-runc.x86_64                                                                              4:1.1.9-2.el9_3                                appstream 
+runc.x86_64                                                                              4:1.1.12-1.el9_3                               appstream 
 rust.x86_64                                                                              1.71.1-1.el9                                   appstream 
 rust-addr2line+cpp_demangle-devel.noarch                                                 0.21.0-1.el9                                   epel      
 rust-addr2line+default-devel.noarch                                                      0.21.0-1.el9                                   epel      
