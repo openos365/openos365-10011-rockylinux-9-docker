@@ -861,8 +861,8 @@ Available Packages
 389-ds-base.x86_64                                                                       2.3.6-5.el9_3                                  appstream 
 389-ds-base-libs.x86_64                                                                  2.3.6-5.el9_3                                  appstream 
 6tunnel.x86_64                                                                           0.13-1.el9                                     epel      
-AMF-devel.noarch                                                                         1.4.32-1.el9                                   epel      
-AMF-samples.noarch                                                                       1.4.32-1.el9                                   epel      
+AMF-devel.noarch                                                                         1.4.33-1.el9                                   epel      
+AMF-samples.noarch                                                                       1.4.33-1.el9                                   epel      
 Agda.x86_64                                                                              2.6.2.2-36.el9                                 epel      
 Agda-common.noarch                                                                       2.6.2.2-36.el9                                 epel      
 BackupPC.x86_64                                                                          4.4.0-9.el9                                    epel      
@@ -1601,8 +1601,8 @@ baresip-v4l2.x86_64                                                             
 baresip-vp8.x86_64                                                                       3.8.1-1.el9                                    epel      
 baresip-vp9.x86_64                                                                       3.8.1-1.el9                                    epel      
 baresip-x11.x86_64                                                                       3.8.1-1.el9                                    epel      
-barman.noarch                                                                            3.9.0-1.el9                                    epel      
-barman-cli.noarch                                                                        3.9.0-1.el9                                    epel      
+barman.noarch                                                                            3.10.0-1.el9                                   epel      
+barman-cli.noarch                                                                        3.10.0-1.el9                                   epel      
 barrier.x86_64                                                                           2.4.0-1.el9                                    epel      
 basez.x86_64                                                                             1.6.2-1.el9                                    epel      
 bash-argsparse.noarch                                                                    1.8-1.el9                                      epel      
@@ -2440,9 +2440,9 @@ compiz-plugins-extra-devel.x86_64                                               
 compiz-plugins-main.x86_64                                                               1:0.8.18-6.el9                                 epel      
 compiz-plugins-main-devel.x86_64                                                         1:0.8.18-6.el9                                 epel      
 compizconfig-python.x86_64                                                               1:0.8.18-8.el9                                 epel      
-composefs.x86_64                                                                         1.0.2-1.el9                                    epel      
-composefs-devel.x86_64                                                                   1.0.2-1.el9                                    epel      
-composefs-libs.x86_64                                                                    1.0.2-1.el9                                    epel      
+composefs.x86_64                                                                         1.0.3-1.el9                                    epel      
+composefs-devel.x86_64                                                                   1.0.3-1.el9                                    epel      
+composefs-libs.x86_64                                                                    1.0.3-1.el9                                    epel      
 composer.noarch                                                                          2.6.6-1.el9                                    epel      
 conda.noarch                                                                             4.14.0-3.el9                                   epel      
 conky.x86_64                                                                             1.19.2-1.el9                                   epel      
@@ -2744,7 +2744,7 @@ device-mapper-multipath.x86_64                                                  
 device-mapper-multipath-libs.i686                                                        0.8.7-22.el9                                   baseos    
 device-mapper-multipath-libs.x86_64                                                      0.8.7-22.el9                                   baseos    
 dfc.x86_64                                                                               3.1.1-1.el9                                    epel      
-dfuzzer.x86_64                                                                           2.2-4.el9                                      epel      
+dfuzzer.x86_64                                                                           2.3-1.el9                                      epel      
 dh-autoreconf.noarch                                                                     20-5.el9                                       epel      
 dh-make.noarch                                                                           2.202302-1.el9                                 epel      
 dhall.x86_64                                                                             1.39.0-3.el9                                   epel      
@@ -2778,8 +2778,8 @@ diskimage-builder.noarch                                                        
 disktype.x86_64                                                                          9-35.el9                                       epel      
 dislocker.x86_64                                                                         0.7.3-7.el9                                    epel      
 dislocker-libs.x86_64                                                                    0.7.3-7.el9                                    epel      
-dispenso.x86_64                                                                          1.2.0-1.el9                                    epel      
-dispenso-devel.x86_64                                                                    1.2.0-1.el9                                    epel      
+dispenso.x86_64                                                                          1.2.0-4.el9                                    epel      
+dispenso-devel.x86_64                                                                    1.2.0-4.el9                                    epel      
 disruptor.noarch                                                                         3.4.4-2.el9                                    appstream 
 distgen.noarch                                                                           1.17-1.el9                                     epel      
 distribution-gpg-keys-copr.noarch                                                        1.100-1.el9                                    epel      
@@ -11964,7 +11964,7 @@ osbuild-luks2.noarch                                                            
 osbuild-lvm2.noarch                                                                      93-1.el9.rocky.0.2                             appstream 
 osbuild-ostree.noarch                                                                    93-1.el9.rocky.0.2                             appstream 
 osbuild-selinux.noarch                                                                   93-1.el9.rocky.0.2                             appstream 
-osc.noarch                                                                               1.5.1-397.1.1.el9                              epel      
+osc.noarch                                                                               1.6.0-400.1.1.el9                              epel      
 oscap-anaconda-addon.noarch                                                              2.0.0-17.el9                                   appstream 
 oscillatord.x86_64                                                                       3.6.2-1.el9                                    epel      
 osmctools.x86_64                                                                         0.9-12.el9                                     epel      
@@ -11993,7 +11993,7 @@ p7zip-plugins.x86_64                                                            
 pack.x86_64                                                                              0.30.0~pre2-1.el9                              epel      
 packetdrill.x86_64                                                                       2.0~20220927gitc556afb-5.el9                   epel      
 packetdrill-data.noarch                                                                  2.0~20220927gitc556afb-5.el9                   epel      
-packit.noarch                                                                            0.89.0-1.el9                                   epel      
+packit.noarch                                                                            0.90.0-1.el9                                   epel      
 pacman.x86_64                                                                            6.0.2-3.el9                                    epel      
 pacman-filesystem.noarch                                                                 6.0.2-3.el9                                    epel      
 pagure-cli.x86_64                                                                        0.2.1-1.el9                                    epel      
@@ -12303,6 +12303,7 @@ perl-B-Hooks-OP-Check.x86_64                                                    
 perl-B-Keywords.noarch                                                                   1.23-1.el9                                     epel      
 perl-B-Utils.x86_64                                                                      0.27-15.el9                                    epel      
 perl-BSD-Resource.x86_64                                                                 1.291.100-17.el9                               appstream 
+perl-BZ-Client.noarch                                                                    4.4004-12.el9                                  epel      
 perl-Bencode.noarch                                                                      1.502-1.el9                                    epel      
 perl-Bencode-tests.noarch                                                                1.502-1.el9                                    epel      
 perl-BerkeleyDB.x86_64                                                                   0.64-4.el9                                     epel      
@@ -13172,6 +13173,7 @@ perl-Test-RDF-Trine-Store.noarch                                                
 perl-Test-RandomResult.noarch                                                            0.001-8.el9                                    epel      
 perl-Test-Refcount.noarch                                                                0.10-9.el9                                     epel      
 perl-Test-Regexp.noarch                                                                  2017040101-10.el9                              epel      
+perl-Test-RequiresInternet.noarch                                                        0.05-28.el9                                    epel      
 perl-Test-Script.noarch                                                                  1.29-1.el9                                     epel      
 perl-Test-SharedFork.noarch                                                              0.35-20.el9                                    epel      
 perl-Test-Spelling.noarch                                                                0.25-1.el9                                     epel      
@@ -13202,6 +13204,7 @@ perl-Text-Format.noarch                                                         
 perl-Text-Fuzzy.x86_64                                                                   0.29-5.el9                                     epel      
 perl-Text-Iconv.x86_64                                                                   1.7-43.el9                                     epel      
 perl-Text-Levenshtein-Damerau-XS.x86_64                                                  3.2-18.el9                                     epel      
+perl-Text-Password-Pronounceable.noarch                                                  0.30-35.el9                                    epel      
 perl-Text-RecordParser.noarch                                                            1.6.5-24.el9                                   epel      
 perl-Text-RecordParser-tools.noarch                                                      1.6.5-24.el9                                   epel      
 perl-Text-Reform.noarch                                                                  1.20-32.el9                                    epel      
@@ -14288,7 +14291,7 @@ python3-babel.noarch                                                            
 python3-backcall.noarch                                                                  0.1.0-16.el9                                   epel      
 python3-backlash.noarch                                                                  0.3.1-11.el9                                   epel      
 python3-backoff.noarch                                                                   2.2.1-1.el9                                    epel      
-python3-barman.noarch                                                                    3.9.0-1.el9                                    epel      
+python3-barman.noarch                                                                    3.10.0-1.el9                                   epel      
 python3-bcc.noarch                                                                       0.26.0-4.el9                                   appstream 
 python3-bcrypt.x86_64                                                                    3.2.2-1.el9                                    epel      
 python3-beautifulsoup4.noarch                                                            4.10.0-6.el9                                   epel      
@@ -14642,6 +14645,7 @@ python3-freezegun.noarch                                                        
 python3-frozendict.noarch                                                                1.2-21.el9                                     epel      
 python3-frozenlist.x86_64                                                                1.2.0-2.el9                                    epel      
 python3-fs.noarch                                                                        2.4.16-1.el9                                   epel      
+python3-ftputil.noarch                                                                   5.1.0-1.el9                                    epel      
 python3-future.noarch                                                                    0.18.3-3.el9                                   epel      
 python3-gdal.x86_64                                                                      3.4.3-2.el9                                    epel      
 python3-gdcm.x86_64                                                                      3.0.12-5.el9                                   epel      
@@ -15091,7 +15095,7 @@ python3-osrf-pycommon.noarch                                                    
 python3-otf2.x86_64                                                                      2.3-3.el9                                      epel      
 python3-outcome.noarch                                                                   1.2.0-1.el9                                    epel      
 python3-packaging.noarch                                                                 20.9-5.el9                                     appstream 
-python3-packit.noarch                                                                    0.89.0-1.el9                                   epel      
+python3-packit.noarch                                                                    0.90.0-1.el9                                   epel      
 python3-paho-mqtt.noarch                                                                 1.6.1-4.el9                                    epel      
 python3-pam.noarch                                                                       2.0.0-1.el9                                    epel      
 python3-param.noarch                                                                     1.13.0-1.el9                                   epel      
@@ -25559,7 +25563,7 @@ tinyxml-devel.x86_64                                                            
 tinyxml2.x86_64                                                                          9.0.0-1.el9                                    epel      
 tinyxml2-devel.x86_64                                                                    9.0.0-1.el9                                    epel      
 tio.x86_64                                                                               2.7-1.el9                                      epel      
-tito.noarch                                                                              0.6.24-1.el9                                   epel      
+tito.noarch                                                                              0.6.25-1.el9                                   epel      
 tk.x86_64                                                                                1:8.6.10-9.el9                                 appstream 
 tk-devel.x86_64                                                                          1:8.6.10-9.el9                                 appstream 
 tkrzw.x86_64                                                                             1.0.27-1.el9                                   epel      
@@ -26054,6 +26058,7 @@ vulkan-loader-devel.i686                                                        
 vulkan-loader-devel.x86_64                                                               1.3.250.1-1.el9                                appstream 
 vulkan-tools.x86_64                                                                      1.3.250.1-1.el9                                appstream 
 vulkan-validation-layers.x86_64                                                          1.3.250.1-1.el9                                appstream 
+vym.x86_64                                                                               2.9.26-1.el9                                   epel      
 w3m.x86_64                                                                               0.5.3-60.git20230121.el9                       epel      
 w3m-img.x86_64                                                                           0.5.3-60.git20230121.el9                       epel      
 waf.noarch                                                                               2.0.26-1.el9                                   epel      
