@@ -24522,9 +24522,9 @@ secilc.x86_64                                                                   
 secilc-doc.noarch                                                                        3.5-1.el9                                      epel      
 sedutil.x86_64                                                                           1.20.0-2.el9                                   epel      
 selinux-policy-devel.noarch                                                              38.1.23-1.el9_3.2                              appstream 
-selinux-policy-doc.noarch                                                                38.1.23-1.el9_3.1                              baseos    
-selinux-policy-mls.noarch                                                                38.1.23-1.el9_3.1                              baseos    
-selinux-policy-sandbox.noarch                                                            38.1.23-1.el9_3.1                              baseos    
+selinux-policy-doc.noarch                                                                38.1.23-1.el9_3.2                              baseos    
+selinux-policy-mls.noarch                                                                38.1.23-1.el9_3.2                              baseos    
+selinux-policy-sandbox.noarch                                                            38.1.23-1.el9_3.2                              baseos    
 semver-parser.x86_64                                                                     0.10.2-6.el9                                   epel      
 sendemail.noarch                                                                         1.56-10.el9                                    epel      
 sendmail.x86_64                                                                          8.16.1-11.el9                                  appstream 
