@@ -24911,6 +24911,7 @@ subversion-gnome.x86_64                                                         
 subversion-libs.x86_64                                                                   1.14.1-5.el9_0                                 appstream 
 subversion-perl.x86_64                                                                   1.14.1-5.el9_0                                 appstream 
 subversion-tools.x86_64                                                                  1.14.1-5.el9_0                                 appstream 
+sudo.x86_64                                                                              1.9.5p2-10.el9_3                               baseos    
 sudo-python-plugin.x86_64                                                                1.9.5p2-9.el9                                  appstream 
 suil.x86_64                                                                              0.10.18-1.el9                                  epel      
 suil-devel.x86_64                                                                        0.10.18-1.el9                                  epel      
