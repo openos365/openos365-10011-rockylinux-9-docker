@@ -10538,7 +10538,7 @@ live555-devel.x86_64                                                            
 live555-tools.x86_64                                                                     2023.06.20-2.el9                               epel      
 livecd-iso-to-mediums.x86_64                                                             31.0-1.el9                                     epel      
 livecd-tools.x86_64                                                                      31.0-1.el9                                     epel      
-livesys-scripts.noarch                                                                   0.4.3-2.el9                                    extras    
+livesys-scripts.noarch                                                                   0.4.3-1.el9                                    epel      
 lklug-fonts.noarch                                                                       0.6-26.20090803cvs.el9                         appstream 
 lksctp-tools.i686                                                                        1.0.19-2.el9                                   baseos    
 lksctp-tools-devel.i686                                                                  1.0.19-2.el9                                   appstream 
