@@ -11919,8 +11919,8 @@ openpgm.x86_64                                                                  
 openpgm-devel.x86_64                                                                     5.2.122-28.el9                                 epel      
 openrgb.x86_64                                                                           0.9-10.el9                                     epel      
 openrgb-udev-rules.noarch                                                                0.9-10.el9                                     epel      
-opensc.i686                                                                              0.23.0-4.el9_3                                 baseos    
-opensc.x86_64                                                                            0.23.0-4.el9_3                                 baseos    
+opensc.i686                                                                              0.23.0-3.el9_3                                 baseos    
+opensc.x86_64                                                                            0.23.0-3.el9_3                                 baseos    
 openscap.i686                                                                            1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openscap.x86_64                                                                          1:1.3.8-1.el9_2.rocky.1.0                      appstream 
 openscap-devel.i686                                                                      1:1.3.8-1.el9_2.rocky.1.0                      appstream 
