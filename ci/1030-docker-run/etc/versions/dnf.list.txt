@@ -1606,7 +1606,6 @@ baresip-x11.x86_64                                                              
 barman.noarch                                                                            3.10.0-1.el9                                   epel      
 barman-cli.noarch                                                                        3.10.0-1.el9                                   epel      
 barrier.x86_64                                                                           2.4.0-1.el9                                    epel      
-basesystem.noarch                                                                        11-13.el9.0.1                                  baseos    
 basez.x86_64                                                                             1.6.2-1.el9                                    epel      
 bash-argsparse.noarch                                                                    1.8-1.el9                                      epel      
 bash-color-prompt.noarch                                                                 0.4-1.el9                                      epel      
