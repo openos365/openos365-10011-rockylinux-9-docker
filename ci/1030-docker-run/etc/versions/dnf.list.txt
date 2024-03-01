@@ -2084,8 +2084,8 @@ centos-release-samba418.noarch                                                  
 centos-release-samba419.noarch                                                           1.0-1.el9                                      extras    
 centos-release-storage-common.noarch                                                     2-5.el9                                        extras    
 centos-release-virt-common.noarch                                                        1-4.el9                                        extras    
-centpkg.noarch                                                                           0.8.1-2.el9                                    epel      
-centpkg-sig.noarch                                                                       0.8.1-2.el9                                    epel      
+centpkg.noarch                                                                           0.8.2-1.el9                                    epel      
+centpkg-sig.noarch                                                                       0.8.2-1.el9                                    epel      
 cepces.noarch                                                                            0.3.5-6.el9                                    epel      
 cepces-certmonger.noarch                                                                 0.3.5-6.el9                                    epel      
 cepces-selinux.noarch                                                                    0.3.5-6.el9                                    epel      
@@ -3144,8 +3144,8 @@ fail2ban-systemd.noarch                                                         
 fail2ban-tests.noarch                                                                    1.0.2-7.el9                                    epel      
 fakechroot.x86_64                                                                        2.20.1-12.el9                                  epel      
 fakechroot-libs.x86_64                                                                   2.20.1-12.el9                                  epel      
-fakeroot.x86_64                                                                          1.32.2-1.el9                                   epel      
-fakeroot-libs.x86_64                                                                     1.32.2-1.el9                                   epel      
+fakeroot.x86_64                                                                          1.33-1.el9                                     epel      
+fakeroot-libs.x86_64                                                                     1.33-1.el9                                     epel      
 fancontrol-gui.x86_64                                                                    0.8-1.20220606git5bfa8fa.el9                   epel      
 fancontrol-gui-kcm.x86_64                                                                0.8-1.20220606git5bfa8fa.el9                   epel      
 fancontrol-gui-plasmoid.noarch                                                           0.8-1.20220606git5bfa8fa.el9                   epel      
@@ -5825,8 +5825,8 @@ gi-docgen.noarch                                                                
 gi-docgen-doc.noarch                                                                     2023.3-2.el9                                   epel      
 gi-docgen-fonts.noarch                                                                   2023.3-2.el9                                   epel      
 giflib.i686                                                                              5.2.1-9.el9                                    appstream 
-gifsicle.x86_64                                                                          1.93-1.el9                                     epel      
-gifview.x86_64                                                                           1.93-1.el9                                     epel      
+gifsicle.x86_64                                                                          1.95-1.el9                                     epel      
+gifview.x86_64                                                                           1.95-1.el9                                     epel      
 gimp.x86_64                                                                              2:2.99.8-4.el9_3                               appstream 
 gimp-libs.i686                                                                           2:2.99.8-4.el9_3                               appstream 
 gimp-libs.x86_64                                                                         2:2.99.8-4.el9_3                               appstream 
@@ -10392,6 +10392,9 @@ libvncserver-devel.x86_64                                                       
 libvoikko.i686                                                                           4.3-7.el9                                      appstream 
 libvoikko.x86_64                                                                         4.3-7.el9                                      appstream 
 libvorbis.i686                                                                           1:1.3.7-5.el9                                  appstream 
+libvpl.x86_64                                                                            1:2.10.2-1.el9                                 epel      
+libvpl-devel.x86_64                                                                      1:2.10.2-1.el9                                 epel      
+libvpl-samples.x86_64                                                                    1:2.10.2-1.el9                                 epel      
 libvpx.i686                                                                              1.9.0-7.el9_2                                  appstream 
 libvpx.x86_64                                                                            1.9.0-7.el9_2                                  appstream 
 libvterm.x86_64                                                                          0.3-1.el9                                      epel      
@@ -11138,7 +11141,7 @@ mock-filesystem.noarch                                                          
 mock-lvm.noarch                                                                          5.5-1.el9                                      epel      
 mock-rpmautospec.noarch                                                                  5.5-1.el9                                      epel      
 mock-scm.noarch                                                                          5.5-1.el9                                      epel      
-mod_auth_cas.x86_64                                                                      1.2-4.el9                                      epel      
+mod_auth_cas.x86_64                                                                      1.2-8.el9                                      epel      
 mod_auth_gssapi.x86_64                                                                   1.6.3-7.el9                                    appstream 
 mod_auth_mellon.x86_64                                                                   0.17.0-7.el9                                   appstream 
 mod_auth_openidc.x86_64                                                                  2.4.9.4-4.el9                                  appstream 
@@ -12853,7 +12856,7 @@ perl-Lua-API.x86_64                                                             
 perl-MCE.noarch                                                                          1.876-1.el9                                    epel      
 perl-MCE-Shared.noarch                                                                   1.875-1.el9                                    epel      
 perl-MCE-tools.noarch                                                                    1.876-1.el9                                    epel      
-perl-MIME-EncWords.noarch                                                                1.014.3-21.el9                                 epel      
+perl-MIME-EncWords.noarch                                                                1.015.0-1.el9                                  epel      
 perl-MIME-Lite.noarch                                                                    3.033-2.el9                                    epel      
 perl-MIME-Lite-HTML.noarch                                                               1.24-30.el9                                    epel      
 perl-MIME-tools.noarch                                                                   5.509-11.el9                                   epel      
@@ -14575,7 +14578,7 @@ python3-dmidecode.x86_64                                                        
 python3-dnf-plugin-flunk_dependent_remove.noarch                                         1.0-5.el9                                      epel      
 python3-dnf-plugin-leaves.noarch                                                         4.3.0-11.el9_3                                 appstream 
 python3-dnf-plugin-modulesync.noarch                                                     4.3.0-11.el9_3                                 appstream 
-python3-dnf-plugin-perfmetrics.noarch                                                    1.0-1.el9                                      epel      
+python3-dnf-plugin-perfmetrics.noarch                                                    1.0-11.el9                                     epel      
 python3-dnf-plugin-post-transaction-actions.noarch                                       4.3.0-11.el9_3                                 baseos    
 python3-dnf-plugin-show-leaves.noarch                                                    4.3.0-11.el9_3                                 appstream 
 python3-dnf-plugin-versionlock.noarch                                                    4.3.0-11.el9_3                                 baseos    
@@ -15014,6 +15017,7 @@ python3-mrack-openstack.noarch                                                  
 python3-mrack-podman.noarch                                                              1.18.0-1.el9                                   epel      
 python3-mrack-virt.noarch                                                                1.18.0-1.el9                                   epel      
 python3-mracklib.noarch                                                                  1.18.0-1.el9                                   epel      
+python3-mrcfile.noarch                                                                   1.5.0-3.el9                                    epel      
 python3-msal.noarch                                                                      1.24.1-3.el9                                   epel      
 python3-msal+broker.noarch                                                               1.24.1-3.el9                                   epel      
 python3-msal-extensions.noarch                                                           1.0.0-5.el9                                    epel      
@@ -15793,9 +15797,9 @@ python3.11-uwsgidecorators.x86_64                                               
 python3.11-wheel.noarch                                                                  0.38.4-3.el9                                   appstream 
 python3.11-winrm.noarch                                                                  0.4.3-1.el9                                    epel      
 python3.11-xmltodict.noarch                                                              0.12.0-1.el9                                   epel      
-pythoncapi-compat-devel.noarch                                                           0^20231214gitdeb6f40-1.el9                     epel      
-pythoncapi-compat-doc.noarch                                                             0^20231214gitdeb6f40-1.el9                     epel      
-pythoncapi-compat-tools.noarch                                                           0^20231214gitdeb6f40-1.el9                     epel      
+pythoncapi-compat-devel.noarch                                                           0^20240220git52486a9-1.el9                     epel      
+pythoncapi-compat-doc.noarch                                                             0^20240220git52486a9-1.el9                     epel      
+pythoncapi-compat-tools.noarch                                                           0^20240220git52486a9-1.el9                     epel      
 pyzor.noarch                                                                             1.0.0-28.20200530gitf46159b.el9                epel      
 q4wine.x86_64                                                                            1.3.13-2.el9                                   epel      
 qaccessibilityclient.x86_64                                                              0.4.1-4.el9                                    epel      
