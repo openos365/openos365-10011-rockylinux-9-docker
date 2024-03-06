@@ -2956,7 +2956,7 @@ editorconfig.x86_64                                                             
 editorconfig-devel.x86_64                                                                0.12.6-1.el9                                   epel      
 editorconfig-libs.x86_64                                                                 0.12.6-1.el9                                   epel      
 edk2-arm.noarch                                                                          20230524-2.el9                                 epel      
-edk2-ovmf.noarch                                                                         20230524-4.el9_3                               appstream 
+edk2-ovmf.noarch                                                                         20230524-4.el9_3.2                             appstream 
 edk2-riscv64.noarch                                                                      20230524-2.el9                                 epel      
 efibootmgr.x86_64                                                                        16-12.el9                                      baseos    
 efifs.x86_64                                                                             1.9-1.el9                                      epel      
